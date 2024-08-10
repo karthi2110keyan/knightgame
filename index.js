@@ -65,7 +65,7 @@ const player = new gameFunction({
     position:{ x:300,  y:0},
     velocity:{x:0,y:0},
     offset:{x:0,y:83},
-  Imagesrc:"./ch_image/_Idle.png",
+  Imagesrc:"../ch_image/_Idle.png",
     spriteWidth:1200,
     spriteHeight:80,
     frameMax:10,
@@ -73,34 +73,34 @@ const player = new gameFunction({
     scale:1.5,
     sprites:{
         idle:{
-            Imagesrc:"./ch_image/_Idle.png",
+            Imagesrc:"../ch_image/_Idle.png",
             spriteWidth:1200,
             frameMax:10,
         },
         run:{
-            Imagesrc:"./ch_image/_Run.png",
+            Imagesrc:"../ch_image/_Run.png",
             spriteWidth:1200,
             frameMax:10,
         }, idleleft:{
-            Imagesrc:"./ch_image/_Idleleft.png",
+            Imagesrc:"../ch_image/_Idleleft.png",
             spriteWidth:1200,
             frameMax:10,
         },
         runleft:{
-            Imagesrc:"./ch_image/_Runleft.png",
+            Imagesrc:"../ch_image/_Runleft.png",
             spriteWidth:1200,
             frameMax:10,
         },
         jump:{
-            Imagesrc:"./ch_image/_Jump.png",
+            Imagesrc:"../ch_image/_Jump.png",
             spriteWidth:360,
             frameMax:3,
         },fall:{
-            Imagesrc:"./ch_image/_Fall.png",
+            Imagesrc:"../ch_image/_Fall.png",
             spriteWidth:360,
             frameMax:3,
         },attack:{
-            Imagesrc:"./ch_image/attack.png",
+            Imagesrc:"../ch_image/attack.png",
             spriteWidth:1200,
             frameMax:10,
         }
