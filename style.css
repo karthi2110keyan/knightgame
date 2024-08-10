@@ -44,7 +44,7 @@ button{
 }
 
 .left{
- background-image:url(./ch_image/left-arrow.png) ;
+ background-image:url(./image/left-arrow.png) ;
  background-position:center ;
  background-size:30px;
  background-repeat: no-repeat;
@@ -52,7 +52,7 @@ button{
 }
 
 .right{
-    background-image:url(./ch_image/right-arrow.png) ;
+    background-image:url(./image/right-arrow.png) ;
     background-position:center ;
     background-size:30px;
     background-repeat: no-repeat;
@@ -62,7 +62,7 @@ button{
 
    
 .attack{
-    background-image:url(./ch_image/sword.png) ;
+    background-image:url(./image/sword.png) ;
     background-position:center ;
     background-size:30px;
     background-repeat: no-repeat;
